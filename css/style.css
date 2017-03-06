@@ -1,9 +1,27 @@
+.padding-top-10px {
+    padding-top: 10px;
+    padding-right: 10px;
+    border-right: 1px solid gray;
+}
 
+.search-box {
+    padding-top: 10px;
+}
 
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
+.search-bar {
+    height: 29px;
+    background-color: #e1e1e1;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+    border-radius: 100px;
+	position:relative;
+    width: 230px
+}
 
+.icon-size {
+    height: 16px;
+    width: 16px;
+}
 
 
 
