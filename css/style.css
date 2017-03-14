@@ -1,3 +1,7 @@
+body {
+    font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
+}
+
 .padding-top-10px {
     padding-top: 10px;
     padding-right: 10px;
@@ -23,18 +27,20 @@
     width: 16px;
 }
 
+.bigger-nav {
+    height: 60px;
+    background: rgb(171, 0, 20);
+}
 
+.nav-link {
+    border: 1px solid white;
+    font-size: 20px;
+    color: white;
+    padding: 2px;
+    margin: 15px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+.dark-red-nav {
+    background: rgb(150, 4, 19);
+    font-size: 15px;
+}
