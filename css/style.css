@@ -2,6 +2,12 @@ body {
     font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
 }
 
+.align-center {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+
 .padding-top-10px {
     padding-top: 10px;
     padding-right: 10px;
@@ -43,4 +49,12 @@ body {
 .dark-red-nav {
     background: rgb(150, 4, 19);
     font-size: 15px;
+    color: white;
+}
+
+.small-text {}
+    font-size: 10px;
+    /* Make sure the text does not break */
+    overflow: hidden;
+    white-space: nowrap;
 }
