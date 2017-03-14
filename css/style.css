@@ -1,22 +1,16 @@
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
 
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
 
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.logo-container {
+    padding-left: 200px;
+    border-right: 1px solid black;
+}
