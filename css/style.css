@@ -2,12 +2,6 @@ body {
     font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
 }
 
-.align-center {
-    display: flex;
-    align-self: center;
-    justify-content: center;
-}
-
 .padding-top-10px {
     padding-top: 10px;
     padding-right: 10px;
